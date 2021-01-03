@@ -10,7 +10,7 @@
 
 ## Installation 🔥
 ```bash
-// using go cli
+# using go cli
 go install github.com/freddie-nelson/snake
 ```
 
