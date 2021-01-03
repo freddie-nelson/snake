@@ -3,6 +3,7 @@
 ## Table of Contents 📰
 
 * [Installation](#installation)
+* [Demo](#Demo)
 * [How to use](#getting-started)
 * [License](#license)
 * [Contact](#contact)
@@ -13,10 +14,13 @@
 go install github.com/freddie-nelson/snake
 ```
 
+## Demo
+![snake](https://raw.githubusercontent.com/freddie-nelson/snake/main/demo.gif)
+
 ## How to use 👍
 
 ```bash
-// just type snake in your terminal of choice
+# just type snake in your terminal of choice
 snake
 ```
 
